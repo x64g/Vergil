@@ -1,5 +1,4 @@
 # Vergil
-/ Passion Project!
 A game made by you!
 Many triple A games make their own decisions and barely communicate with the fan base. In Vergil, you use what happens.
 The fans choose the necessry updates for the and all content before being added is discussed with the fans.
